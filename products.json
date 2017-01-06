@@ -1,0 +1,137 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        }},
+        {
+    "Busvannam": {
+            "id": 1,
+            "type": 0,
+            "name": "Busvannam",
+            "description": "Multi-colored sparklers that are safe for adults."
+        }},
+        {
+      "chakaram": {
+            "id": 2,
+            "type": 0,
+            "name": "chakaram",
+            "description": "rolling in the floor."
+        }},
+        {
+          "sparklers": {
+            "id": 3,
+            "type": 1,
+            "name": "Sparklers",
+            "description": "Multi-colored sparklers that are safe adults."
+        }
+        },
+        {
+          "Giant-Sparklers": {
+            "id": 4,
+            "type": 1,
+            "name": "Giant-Sparklers",
+            "description": "Multi-colored sparklers that are safe adults."
+        }
+
+        },
+        {
+        "veryGiant-Sparklers": {
+            "id": 5,
+            "type": 1,
+            "name": "very-Giant-Sparklers",
+            "description": "Multi-colored sparklers that are safe adults."
+        }
+      },
+       {   "long-way": {
+            "id": 6,
+            "type": 2,
+            "name": "long-way",
+            "description": "Multi-colored sparklers that are safe adults."
+          }},
+        {
+          "Galaxy": {
+            "id": 7,
+            "type": 2,
+            "name": "Galaxy",
+            "description": "Multi-colored sparklers that are safe adults."
+        }
+        },
+        {
+        "Galaxy-xxxx": {
+            "id": 8,
+            "type": 2,
+            "name": "Galaxy-xxxx",
+            "description": "Multi-colored sparklers that are safe adults."
+
+      }},
+
+        {  "ggggg": {
+            "id": 9,
+            "type": 3,
+            "name": "ggggg",
+            "description": "Multi-colored sparklers that are safe adults."
+          }},
+          {
+          "yyyy": {
+            "id": 10,
+            "type": 3,
+            "name": "yyyy",
+            "description": "Multi-colored sparklers that are safe adults."
+        }},
+        {
+        "hhhh": {
+            "id": 12,
+            "type": 3,
+            "name": "hhhh",
+            "description": "Multi-colored sparklers that are safe adults."
+        }},
+        {
+          "ffff": {
+            "id": 13,
+            "type": 4,
+            "name": "ffff",
+            "description": "Multi-colored sparklers that are safe adults."
+        }
+        },
+        {
+          "qqqq": {
+            "id": 14,
+            "type": 4,
+            "name": "qqqq",
+            "description": "Multi-colored sparklers that are safe adults."
+        }
+        },
+        {
+        "dddd": {
+            "id": 15,
+            "type": 4,
+            "name": "dddd",
+            "description": "Multi-colored sparklers that are safe adults."
+        }},
+        {
+        "ssss": {
+            "id": 16,
+            "type": 5,
+            "name": "ssss",
+            "description": "Multi-colored sparklers that are safe adults."
+          }},
+          {
+          "oooo": {
+            "id": 17,
+            "type": 5,
+            "name": "oooo",
+            "description": "Multi-colored sparklers that are safe adults."
+        }},
+        {
+        "nnnn": {
+            "id": 18,
+            "type": 5,
+            "name": "nnnn",
+            "description": "Multi-colored sparklers that are safe adults."
+        }
+      }
+    ]
+}

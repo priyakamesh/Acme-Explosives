@@ -1,0 +1,41 @@
+{
+    "types": [
+        {
+            "typeId": 0,
+            "categoriesId": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "typeId": 1,
+            "categoriesId": 0,
+            "name": "private",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "typeId": 2,
+            "categoriesId": 0,
+            "name": "Public",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+
+        {
+          "typeId": 3,
+          "categoriesId": 1,
+          "name": "public",
+          "description": " Govt. Building demolished"
+        },
+        {
+          "typeId": 4,
+          "categoriesId": 1,
+          "name": "private",
+          "description": " M'D Building demolished"
+        },
+        {
+          "typeId": 5,
+          "categoriesId": 1,
+          "name": "personal",
+          "description": " Home Building demolished"
+        }
+    ]
+}

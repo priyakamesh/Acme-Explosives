@@ -1,0 +1,22 @@
+body {
+  background-color: #efefef;
+  text-align: center;
+}
+.widthChange {
+  width : 10em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+.colorChange {
+  background-color:  #f47142;
+  width: 15em;
+  /*text-align: center;*/
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+.cateSelected {
+  text-align: center;
+  padding: 1em 1em;
+}
